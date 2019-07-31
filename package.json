@@ -1,0 +1,28 @@
+{
+  "name": "random-hikyou",
+  "version": "1.0.0",
+  "description": "Random 秘境100選",
+  "homepage": "https://github.com/azu/random-hikyou",
+  "bugs": {
+    "url": "https://github.com/azu/random-hikyou/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/random-hikyou.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "lib/random-hikyou.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
