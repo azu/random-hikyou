@@ -2,7 +2,7 @@
 
 Random 秘境100選
 
-- 
+- Website: <https://random-hikyou.netlify.com/>
 
 ## Changelog
 
